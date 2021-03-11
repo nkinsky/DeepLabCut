@@ -21,6 +21,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
+print('test')
 
 if __name__ == "__main__":
     task = "TEST"  # Enter the name of your experiment Task
